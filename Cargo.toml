@@ -1,0 +1,15 @@
+[package]
+name = "rustjoyn"
+version = "0.1.0"
+authors = ["sbst <sbst@yandex.ru>"]
+
+[dependencies]
+
+[[example]]
+name = "basic_client"
+path = "examples/basic_client.rs"
+
+[[example]]
+name = "basic_service"
+path = "examples/basic_service.rs"
+
