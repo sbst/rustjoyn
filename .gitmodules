@@ -1,0 +1,3 @@
+[submodule "src/core-alljoyn"]
+	path = src/core-alljoyn
+	url = https://github.com/allseenalliance/core-alljoyn.git
